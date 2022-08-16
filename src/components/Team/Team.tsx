@@ -53,7 +53,7 @@ function Team() {
                 </svg>
               </div>
               <h2 className="card-name">Labib</h2>
-              <p className="position">Co-Founder</p>
+              {/* <p className="position">Co-Founder</p> */}
               
             </div>
           </div>
@@ -70,7 +70,7 @@ function Team() {
                 </svg>
               </div>
               <h2 className="card-name">Jad</h2>
-              <p className="position">Co-Founder </p>
+              {/* <p className="position">Co-Founder </p> */}
               
             </div>
           </div>
@@ -87,7 +87,7 @@ function Team() {
                 </svg>
               </div>
               <h2 className="card-name">Ted</h2>
-              <p className="position">CTO</p>
+              {/* <p className="position">CTO</p> */}
               
             </div>
           </div>
@@ -104,7 +104,7 @@ function Team() {
                 </svg>
               </div>
               <h2 className="card-name">Aline</h2>
-              <p className="position">Creative Art Director</p>
+              {/* <p className="position">Creative Art Director</p> */}
               
             </div>
           </div>
