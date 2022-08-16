@@ -197,16 +197,16 @@
 }
 
 .barContent {
-  display: block; /* Important to give the content a width */
+  display:flex; /* Important to give the content a width */
   font-family: "Montserrat", sans-serif;
-  font-size: 500px;
-  font-weight: bold;
+  font-size: 400px;
+  
   color: rgba(0, 0, 0, 0.37);
   width: 100%;
   transform: translateX(100%); /* Animation start out of the screen */
 
   /* Add the animation */
-  animation: move 30s linear infinite
+  animation: move 20s linear infinite
     /* infinite make reapeat the animation indefinitely */;
 }
 

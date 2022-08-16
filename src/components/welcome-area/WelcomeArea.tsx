@@ -159,7 +159,7 @@ function WelcomeArea() {
                 <a href="https://discord.gg/weedefi" target="blank" className={`${classes.gradientBtn} mr-5`}>
                 Early Access 
                 </a>
-                <a href="#" className={`${classes.gradientBtn}`}>
+                <a href="/docs/index.html" target="_blank" className={`${classes.gradientBtn}`}>
                   Read the Greenpaper
                 </a>
               </div>

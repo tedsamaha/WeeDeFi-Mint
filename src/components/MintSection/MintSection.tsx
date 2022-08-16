@@ -19,7 +19,7 @@ function MintSection({
   return (
     <div className={`${classes.icoArea} section-padding py-24 wow fadeInUp`} id="mint">
       <div className={`${classes.bar} z-0`}>
-        <span className={`${classes.barContent} z-0`}> WEEDEFI </span>
+        <span className={`${classes.barContent} z-0`}> Wee<b>DeFi</b> </span>
       </div>
       <MintMain
         candyMachineId={candyMachineId}

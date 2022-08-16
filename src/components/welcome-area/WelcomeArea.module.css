@@ -192,7 +192,7 @@ a.single-about,
 }
 .welcomeArea {
   position: relative;
-  z-index: 999999;
+  z-index: 1;
   padding-top: 80px;
   overflow: hidden;
 }

@@ -32,6 +32,8 @@ import Header from "./components/Header/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Team from "./components/Team/Team";
 import Faq from "./components/Faq/Faq"
+import Farm from "./components/Farm/Farm";
+import Industry from "./components/Industry/Industry";
 const cluster = process.env.REACT_APP_SOLANA_NETWORK!.toString();
 const decimals = process.env.REACT_APP_SPL_TOKEN_TO_MINT_DECIMALS
   ? +process.env.REACT_APP_SPL_TOKEN_TO_MINT_DECIMALS!.toString()
@@ -122,10 +124,13 @@ const Home = (props: HomeProps) => {
         rpcHost={props.rpcHost}
       />
       <About/>
+      <Farm/>
+      <Industry/>
       <Timeline/>
       <Team/>
       <Faq/>
       <Footer />
+
     </div>
   );
 };

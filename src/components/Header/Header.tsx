@@ -62,9 +62,17 @@ function Header() {
                     </a>
                   </li>
 
+                 
+
                   <li>
                     <a className="scroll" href="#farm">
-                      The Farm
+                    Farm
+                    </a>
+                  </li>
+
+                  <li>
+                    <a className="scroll" href="#industry">
+                      Industry
                     </a>
                   </li>
 
@@ -84,8 +92,8 @@ function Header() {
                     </a>
                   </li>
                   <li>
-                    <a className="scroll" href="#Paper">
-                      White Paper
+                    <a className="scroll" href="/docs/index.html" target="_blank">
+                      GreenPaper
                     </a>
                   </li>
 
@@ -124,10 +132,17 @@ function Header() {
                       About
                     </a>
                   </li> 
+                 
 
                   <li>
                     <a className="scroll" href="#farm">
-                      The Farm
+                      Farm
+                    </a>
+                  </li>
+
+                  <li>
+                    <a className="scroll" href="#industry">
+                      Industry
                     </a>
                   </li>
 
@@ -147,8 +162,8 @@ function Header() {
                     </a>
                   </li>
                   <li>
-                    <a className="scroll" href="#Paper">
-                      White Paper
+                    <a className="scroll" href="/docs/index.html" target="_blank">
+                      GreenPaper
                     </a>
                   </li>
 

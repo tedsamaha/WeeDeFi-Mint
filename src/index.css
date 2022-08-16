@@ -90,4 +90,7 @@ a {
   transition: all 0.3s;
 }
 
+.wallet-adapter-modal-container{
+  z-index: 999999999 !important;
+}
 

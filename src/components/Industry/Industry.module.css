@@ -419,3 +419,23 @@ a.single-about,
     z-index: -1;
   }
   
+  .teambg {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .sectionpadding{
+    padding: 90px 0;
+  }
+  .teambg::after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background: url(/src/bg.png);
+        background-attachment: scroll;
+    z-index: -1;
+    background-attachment: fixed;
+  }

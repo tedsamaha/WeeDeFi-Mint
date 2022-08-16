@@ -108,40 +108,75 @@ function Team() {
               
             </div>
           </div>
-          {/* <div className="col-xl-3 col-md-6 col-12 mb-4">
+          <div className="col-xl-3 col-md-6 col-12 mb-4">
             <div className={`${classes.card} text-center rounded-0 border-0`} id="card4">
               <div className="hex-img mt-5 mb-4">
                 <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
                   <defs>
-                    <pattern id="img4" patternUnits="userSpaceOnUse" width={100} height={100}>
-                      <image xlinkHref="img/superman-4.jpg" x={-25} width={150} height={100} />
+                    <pattern id="img5" patternUnits="userSpaceOnUse" width={100} height={100}>
+                      <image xlinkHref="img/manuella.png" x={-25} width={150} height={100} />
                     </pattern>
                   </defs>
-                  <polygon points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img4)" />
+                  <polygon points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img5)" />
                 </svg>
               </div>
-              <h2 className="card-name">John Hary</h2>
-              <p className="position">Founder &amp; CEO</p>
+              <h2 className="card-name">Manuella</h2>
+              {/* <p className="position">Creative Art Director</p> */}
               
             </div>
           </div>
-           <div className="col-xl-3 col-md-6 col-12 mb-4">
+          <div className="col-xl-3 col-md-6 col-12 mb-4">
             <div className={`${classes.card} text-center rounded-0 border-0`} id="card4">
               <div className="hex-img mt-5 mb-4">
                 <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
                   <defs>
-                    <pattern id="img4" patternUnits="userSpaceOnUse" width={100} height={100}>
-                      <image xlinkHref="img/superman-4.jpg" x={-25} width={150} height={100} />
+                    <pattern id="img6" patternUnits="userSpaceOnUse" width={100} height={100}>
+                      <image xlinkHref="img/jimmy.png" x={-25} width={150} height={100} />
                     </pattern>
                   </defs>
-                  <polygon points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img4)" />
+                  <polygon points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img6)" />
                 </svg>
               </div>
-              <h2 className="card-name">John Hary</h2>
-              <p className="position">Founder &amp; CEO</p>
+              <h2 className="card-name">Jimmy</h2>
+              {/* <p className="position">Creative Art Director</p> */}
               
             </div>
-          </div> */}
+          </div>
+          <div className="col-xl-3 col-md-6 col-12 mb-4">
+            <div className={`${classes.card} text-center rounded-0 border-0`} id="card4">
+              <div className="hex-img mt-5 mb-4">
+                <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                  <defs>
+                    <pattern id="img7" patternUnits="userSpaceOnUse" width={100} height={100}>
+                      <image xlinkHref="img/mario.png" x={-25} width={150} height={100} />
+                    </pattern>
+                  </defs>
+                  <polygon points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img7)" />
+                </svg>
+              </div>
+              <h2 className="card-name">Mario</h2>
+              {/* <p className="position">Creative Art Director</p> */}
+              
+            </div>
+          </div>
+          <div className="col-xl-3 col-md-6 col-12 mb-4">
+            <div className={`${classes.card} text-center rounded-0 border-0`} id="card4">
+              <div className="hex-img mt-5 mb-4">
+                <svg viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                  <defs>
+                    <pattern id="img8" patternUnits="userSpaceOnUse" width={100} height={100}>
+                      <image xlinkHref="img/marianne.png" x={-25} width={150} height={100} />
+                    </pattern>
+                  </defs>
+                  <polygon points="50 1 95 25 95 75 50 99 5 75 5 25" fill="url(#img8)" />
+                </svg>
+              </div>
+              <h2 className="card-name">Marianne</h2>
+              {/* <p className="position">Creative Art Director</p> */}
+              
+            </div>
+          </div>
+          
         </div>
       </div>
 
