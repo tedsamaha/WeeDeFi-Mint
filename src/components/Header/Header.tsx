@@ -76,11 +76,7 @@ function Header() {
                     </a>
                   </li>
 
-                  <li>
-                    <a className="scroll" href="#token">
-                      Distribution
-                    </a>
-                  </li>
+                
                   <li>
                     <a className="scroll" href="#roadmap">
                       Roadmap
@@ -100,6 +96,11 @@ function Header() {
                   <li>
                     <a className="scroll" href="#faq">
                       FAQ
+                    </a>
+                  </li>
+                  <li>
+                    <a className="scroll" href="#">
+                      Live Stream <div className={classes.blink}></div>
                     </a>
                   </li>
                 </ul>
@@ -146,11 +147,7 @@ function Header() {
                     </a>
                   </li>
 
-                  <li>
-                    <a className="scroll" href="#token">
-                      Distribution
-                    </a>
-                  </li>
+                
                   <li>
                     <a className="scroll" href="#roadmap">
                       Roadmap
@@ -170,6 +167,11 @@ function Header() {
                   <li>
                     <a className="scroll" href="#faq">
                       FAQ
+                    </a>
+                  </li>
+                  <li>
+                    <a className="scroll" href="">
+                      Live Stream <div className={classes.blink}></div>
                     </a>
                   </li>
                 </ul>
